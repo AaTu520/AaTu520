@@ -1,20 +1,19 @@
-# Nana Ebina Banner Asset Sources
+# Nana Ebina Banner Images
 
-Both banners use the same original PNG artwork from the official anime website. The images were cropped, proportionally resized, slightly rotated, and composited with text, backgrounds, and frames. No generative AI, AI redrawing, or AI upscaling was used.
+The two original anime images were supplied by the profile owner on September 7, 2026. Their original publication URLs were not supplied. No official-site origin is claimed for these files.
 
-## Original Artwork
+## Original Files
 
-- Official character page: https://umaru-ani.me/character/
-- Casual portrait: https://umaru-ani.me/img/character/chara3_up.png
-  - Original: 260 × 350 PNG with transparency.
-  - SHA-256: ce19a12e60bcd013167e52201e2235f9dfeb156593afb91c3b3a50b25bbea010
-- School uniform character sheet: https://umaru-ani.me/img/character/chara3_stand.png
-  - Original: 651 × 1150 PNG with transparency. Only the upper part of the front-facing character was cropped for the banner.
-  - SHA-256: 7e5c4660783e9844340d6fd9f9a8b49588cebea287b2177e7e0851aa114501f9
+- 9690e9da.png: 1280 × 720.
+  - SHA-256: 840b0d6a308e6cabf0890a7956bb848d768b63a3a6b3ea89dbc646ac487aed50
+- 下载.jpg: 800 × 450.
+  - SHA-256: 6fa2bb60546d371bae241927d2ee5487b40eec7edc1e04621e63c7223ceabe02
 
-## Final Banners
+## Composition
+
+Both banners use these two images, proportionally resized, slightly rotated, and arranged as overlapping photo cards with typeset text and simple graphic backgrounds. No generative AI, AI redrawing, or AI upscaling was used.
 
 - header-collage-light.png: light theme, 1280 × 420.
 - header-collage-dark.png: dark theme, 1280 × 420.
 
-Retrieved on September 6, 2026. Character artwork belongs to its respective rights holders. The original artwork is credited here and is not presented as my own illustration.
+The display name is Aa_Tu. The GitHub account and repository links remain AaTu520. Character and anime images belong to their respective rights holders.

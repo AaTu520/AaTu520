@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./header-collage-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./header-collage-light.png">
-  <img alt="AaTu520 and Nana Ebina — Keep curious. Build small. Grow slowly." src="./header-collage-light.png" width="100%">
+  <img alt="Aa_Tu and Nana Ebina — Keep curious. Build small. Grow slowly." src="./header-collage-light.png" width="100%">
 </picture>
 
 <p align="center">
@@ -62,5 +62,5 @@ Usually tinkering with Minecraft, with a little inspiration from Nana Ebina.
 <p align="center">
   <samp>STAY CURIOUS. KEEP CREATING.</samp><br>
   <sub>Thanks for stopping by. Have a great day.</sub><br>
-  <sub>Nana Ebina artwork from the <a href="https://umaru-ani.me/character/">official anime website</a>.</sub>
+  <sub>Nana Ebina collage · Anime images belong to their respective rights holders.</sub>
 </p>
